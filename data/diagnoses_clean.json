@@ -1,0 +1,27 @@
+[
+  {
+    "id":"J0001",
+    "diagnosis":"Hysteria med kramper",
+    "diagnosis_clean":"hysteria med kramper"
+  },
+  {
+    "id":"J0002",
+    "diagnosis":"ex constitutione, svak konstitusjon",
+    "diagnosis_clean":"ex constitutione, svak konstitusjon"
+  },
+  {
+    "id":"J0003",
+    "diagnosis":"Hysterisk personlighet",
+    "diagnosis_clean":"hysterisk personlighet"
+  },
+  {
+    "id":"J0005",
+    "diagnosis":"Epilepsi med hysteriske trekk",
+    "diagnosis_clean":"epilepsi med hysteriske trekk"
+  },
+  {
+    "id":"J0007",
+    "diagnosis":"ukjent",
+    "diagnosis_clean":"ukjent"
+  }
+]
